@@ -4,13 +4,7 @@
 
 Embedded firmware developer focused on C/C++, Linux, Qt/CMake, STM32, ESP32, QEMU-based testing, driver development, technical documentation, and AI-assisted engineering workflows.
 
-I build software and tools with a strong emphasis on clean architecture, reproducible workflows, firmware validation, and professional documentation.# Anderson Nogueira
-
-## Firmware & Embedded Systems Engineering
-
-I am building a professional path in Embedded Firmware Engineering, with focus on C/C++, Linux, Qt/CMake, STM32, ESP32, QEMU-based testing, technical documentation, and AI-assisted embedded development workflows.
-
-My work is focused on clean architecture, reproducible workflows, firmware validation, driver development, and technical documentation for embedded systems.
+I build software and tools with a strong emphasis on clean architecture, reproducible workflows, firmware validation, and professional documentation.
 
 ![C](https://img.shields.io/badge/C-Low--Level-blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-Systems%20Programming-blue)
@@ -19,14 +13,13 @@ My work is focused on clean architecture, reproducible workflows, firmware valid
 ![CMake](https://img.shields.io/badge/CMake-Build%20Systems-orange)
 ![STM32](https://img.shields.io/badge/STM32-Microcontrollers-blue)
 ![ESP32](https://img.shields.io/badge/ESP32-IoT%20Firmware-red)
-![QEMU](https://img.shields.io/badge/QEMU-Testing%20Workflow-purple)![C](https://img.shields.io/badge/C-Low--Level-blue)
-![C++](https://img.shields.io/badge/C++-Systems%20Programming-blue)
-![Linux](https://img.shields.io/badge/Linux-Development-black)
-![Qt](https://img.shields.io/badge/Qt-GUI%20Applications-green)
-![CMake](https://img.shields.io/badge/CMake-Build%20Systems-orange)
-![STM32](https://img.shields.io/badge/STM32-Microcontrollers-blue)
-![ESP32](https://img.shields.io/badge/ESP32-IoT%20Firmware-red)
 ![QEMU](https://img.shields.io/badge/QEMU-Testing%20Workflow-purple)
+
+---
+
+## Core Skills
+
+
 
 ---
 
