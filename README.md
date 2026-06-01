@@ -11,6 +11,7 @@ I build software and tools with a strong emphasis on clean architecture, reprodu
 ![Linux](https://img.shields.io/badge/Linux-Development-black)
 ![Qt](https://img.shields.io/badge/Qt-GUI%20Applications-green)
 ![CMake](https://img.shields.io/badge/CMake-Build%20Systems-orange)
+![Arduino](https://img.shields.io/badge/Arduino-Embedded%20Prototyping-teal)
 ![STM32](https://img.shields.io/badge/STM32-Microcontrollers-blue)
 ![ESP32](https://img.shields.io/badge/ESP32-IoT%20Firmware-red)
 ![QEMU](https://img.shields.io/badge/QEMU-Testing%20Workflow-purple)
