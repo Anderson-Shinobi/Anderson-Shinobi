@@ -20,12 +20,6 @@ I build software and tools with a strong emphasis on clean architecture, reprodu
 
 ## Core Skills
 
-
-
----
-
-## Core Skills
-
 - Embedded Firmware Development
 - Driver Development
 - C / C++
