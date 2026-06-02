@@ -29,7 +29,7 @@ I build software and tools with a strong emphasis on clean architecture, reprodu
 - QEMU-based Testing
 - Technical Documentation
 - Git / GitHub Workflow
-- AI-Assisted Development with ChatGPT, Codex and Cursor
+- Privacy-aware AI-assisted development with ChatGPT, Codex and Cursor
 
 ---
 
@@ -83,6 +83,14 @@ My development workflow is based on:
 - Creating technical documentation as part of the delivery
 - Validating behavior through tests, logs and reproducible workflows
 - Using AI-assisted tools to accelerate analysis, coding, refactoring and documentation
+
+---
+
+## AI-Assisted Engineering
+
+I use privacy-aware AI-assisted development workflows with tools such as ChatGPT, Codex and Cursor to support code analysis, refactoring, documentation, architecture planning and firmware workflow design.
+
+My approach is simple: AI is an engineering accelerator, not a replacement for technical responsibility. Sensitive client data, credentials, proprietary source code and confidential documents must not be exposed unnecessarily.
 
 ---
 
