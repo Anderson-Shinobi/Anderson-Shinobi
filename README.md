@@ -1,126 +1,202 @@
 # Anderson Nogueira
 
-## Firmware & Embedded Systems Engineering
+## Embedded Firmware Developer | C/C++ | Zephyr RTOS | STM32 | Linux
 
-Embedded firmware developer focused on C/C++, Linux, Qt/CMake, STM32, ESP32, QEMU-based testing, driver development, technical documentation, and AI-assisted engineering workflows.
+Embedded firmware developer with a background in electronics and software development, focused on modern C/C++, low-level systems, microcontrollers, RTOS, virtual hardware testing and engineering automation.
 
-I build software and tools with a strong emphasis on clean architecture, reproducible workflows, firmware validation, and professional documentation.
+I build firmware, libraries and development tools with emphasis on deterministic behavior, clean architecture, reproducible workflows, automated validation and professional technical documentation.
+
+Currently pursuing a **Bachelor's Degree in Physics**, strengthening the scientific foundation behind measurement, electronics, mathematical modeling and real-time embedded systems.
 
 ![C](https://img.shields.io/badge/C-Low--Level-blue)
-![C++](https://img.shields.io/badge/C%2B%2B-Systems%20Programming-blue)
-![Linux](https://img.shields.io/badge/Linux-Development-black)
-![Qt](https://img.shields.io/badge/Qt-GUI%20Applications-green)
-![CMake](https://img.shields.io/badge/CMake-Build%20Systems-orange)
-![Arduino](https://img.shields.io/badge/Arduino-Embedded%20Prototyping-teal)
+![C++](https://img.shields.io/badge/C%2B%2B-Modern%20Systems-blue)
+![Zephyr](https://img.shields.io/badge/Zephyr-RTOS-purple)
 ![STM32](https://img.shields.io/badge/STM32-Microcontrollers-blue)
-![ESP32](https://img.shields.io/badge/ESP32-IoT%20Firmware-red)
-![QEMU](https://img.shields.io/badge/QEMU-Testing%20Workflow-purple)
+![Linux](https://img.shields.io/badge/Linux-Development-black)
+![CMake](https://img.shields.io/badge/CMake-Build%20Systems-orange)
+![QEMU](https://img.shields.io/badge/QEMU-Virtual%20Testing-purple)
+![Renode](https://img.shields.io/badge/Renode-Hardware%20Simulation-green)
+![Qt](https://img.shields.io/badge/Qt-Engineering%20Tools-green)
 
 ---
 
-## Core Skills
+## Current Engineering Focus
 
-- Embedded Firmware Development
-- Driver Development
-- C / C++
-- Linux Development Environment
-- Qt / CMake
-- STM32 / ESP32
-- QEMU-based Testing
-- Technical Documentation
-- Git / GitHub Workflow
-- Privacy-aware AI-assisted development with ChatGPT, Codex and Cursor
+- Embedded firmware development in C and C++
+- Modern and concurrent C++ design
+- STM32 and ESP32 microcontrollers
+- Zephyr RTOS, FreeRTOS and bare-metal systems
+- Device drivers and hardware abstraction
+- QEMU and Renode virtual hardware testing
+- Firmware smoke tests and validation pipelines
+- CMake-based build and packaging workflows
+- Linux-first development environments
+- Qt 6 and QML engineering tools
+- Responsible AI-assisted engineering with human review
 
 ---
 
 ## Featured Projects
 
-### qKAGE_HOME_SUPPLY
+### Embedded Telemetry Laboratory
 
-A Linux desktop application built with C++ and Qt for household supply control, stock management, shopping list generation, reports, backups, and structured logs.
+A modern C++ and Zephyr RTOS laboratory for deterministic telemetry processing, concurrent host-side pipelines and hardware-independent firmware validation.
 
-**Technical focus:**
+**Engineering highlights:**
 
-- C++ application architecture
-- Qt GUI development
-- Data persistence
-- Reports and operational logs
-- Portfolio-ready documentation
+- Binary telemetry protocol implemented in C++20
+- Defensive serialization and deserialization
+- CRC-32 integrity validation
+- Explicit big-endian wire format
+- Thread-safe concurrent telemetry processing
+- Zephyr native simulation
+- STM32 NUCLEO-F401RE target support
+- Reproducible CMake and CTest workflows
+- Automated host and firmware validation
+
+**Technologies:** C++20, Zephyr RTOS, STM32, CMake, GoogleTest and Linux.
 
 Repository:
 
-- [qKAGE_HOME_SUPPLY](https://github.com/Anderson-Shinobi/qKAGE_HOME_SUPPLY)
+- [cpp-embedded-telemetry-lab](https://github.com/Anderson-Shinobi/cpp-embedded-telemetry-lab)
+
+---
+
+### Safe Concurrent Buffer
+
+A reusable modern C++ concurrent buffer designed around memory safety, predictable shutdown behavior and clean integration into external CMake projects.
+
+**Engineering highlights:**
+
+- Thread-safe producer and consumer operations
+- Explicit close semantics
+- Safe rejection of writes after shutdown
+- Automated concurrency tests
+- Strict compiler warning policy
+- AddressSanitizer and UndefinedBehaviorSanitizer validation
+- Installable and relocatable CMake package
+- Namespaced imported target for downstream consumers
+
+**Technologies:** Modern C++, CMake, CTest, GoogleTest and sanitizers.
+
+Repository:
+
+- [cpp-safe-concurrent-buffer](https://github.com/Anderson-Shinobi/cpp-safe-concurrent-buffer)
 
 ---
 
 ### qKAGE Embedded Workbench
 
-A professional firmware workflow tool designed to support embedded project generation, build automation, QEMU planning, smoke tests, documentation, and reusable firmware templates.
+A C++17 and Qt-based engineering workbench for embedded project automation, build planning, validation, reporting and controlled execution workflows.
 
-**Technical focus:**
+**Engineering highlights:**
 
-- Embedded project scaffolding
-- CMake workflow generation
-- QEMU test planning
-- Firmware-oriented automation
-- Technical documentation workflow
-- AI-assisted engineering workflow
+- Environment and workspace validation
+- CMake workflow detection
+- Build planning and preflight analysis
+- Execution policy and readiness checks
+- Safe dry-run workflows
+- Build artifact detection
+- Markdown engineering reports
+- Command-line and graphical interfaces
+- Automated C++ and Python smoke tests
+- QEMU-oriented firmware workflow planning
 
-Status:
+**Technologies:** C++17, Qt 6, QML, CMake, QEMU, Python, Bash and Linux.
 
-- In development
-- Built as a strategic portfolio project for embedded firmware services
-
----
-
-## Engineering Workflow
-
-My development workflow is based on:
-
-- Reading datasheets, reference manuals and user guides
-- Designing small, testable components
-- Using Git from the beginning of the project
-- Creating technical documentation as part of the delivery
-- Validating behavior through tests, logs and reproducible workflows
-- Using AI-assisted tools to accelerate analysis, coding, refactoring and documentation
+**Status:** Active development.
 
 ---
 
-## AI-Assisted Engineering
+## Technical Stack
 
-I use privacy-aware AI-assisted development workflows with tools such as ChatGPT, Codex and Cursor to support code analysis, refactoring, documentation, architecture planning and firmware workflow design.
+### Languages and Build Systems
 
-My approach is simple: AI is an engineering accelerator, not a replacement for technical responsibility. Sensitive client data, credentials, proprietary source code and confidential documents must not be exposed unnecessarily.
+- C
+- C++
+- Python
+- Bash
+- QML
+- CMake
+
+### Embedded Systems
+
+- STM32
+- ESP32
+- ATmega328P
+- RP2040
+- Arduino
+- Zephyr RTOS
+- FreeRTOS
+- Bare-metal development
+- Device driver development
+- Peripheral integration
+
+### Development and Validation
+
+- Linux
+- Git and GitHub
+- CMake and Ninja
+- QEMU
+- Renode
+- Robot Framework
+- Qt 6
+- PlatformIO
+- ESP-IDF
+- STM32CubeIDE
+- Doxygen
+- GoogleTest
+- AddressSanitizer and UndefinedBehaviorSanitizer
+- Automated smoke testing
+- Continuous integration workflows
 
 ---
 
-## Technologies
+## Physics and Engineering
 
-C • C++ • Linux • Bash • Qt • CMake • Git • STM32 • ESP32 • QEMU • SQLite • Markdown • Doxygen
+My study of Physics directly supports my work in electronics and embedded systems.
+
+Measurement, uncertainty, mechanics, electromagnetism, thermodynamics and mathematical modeling provide the foundation for understanding real hardware beyond source code.
+
+For me, firmware is the layer where:
+
+> **Mathematics becomes logic, logic becomes timing, and timing becomes physical behavior.**
 
 ---
 
-## Current Focus
+## Education
 
-- Embedded firmware architecture
-- Bare-metal driver development
-- STM32 and ESP32 firmware workflows
-- QEMU-based firmware validation
-- Linux-first development environments
-- Building a technical portfolio for professional freelance work on UpWork
+- **Bachelor's Degree in Physics** — in progress
+- **Postgraduate Degree in Electronic Engineering and Robotics**
+- **Technology Degree in Systems Analysis and Development**
+- **Technical Education in Electronics — SENAI Bahia**
+
+---
+
+## Engineering Principles
+
+- Understand the hardware before abstracting it
+- Validate assumptions before optimizing
+- Prefer deterministic behavior over hidden complexity
+- Design small, testable components
+- Automate repetitive verification
+- Treat documentation as part of the engineering deliverable
+- Protect confidential and proprietary information
+- Use AI as an accelerator, never as a substitute for technical judgment
+- Build systems that can be tested before reaching physical hardware
 
 ---
 
 ## Professional Direction
 
-I am preparing a technical portfolio focused on firmware engineering, embedded systems, automation, testing, and documentation.
+I am building a portfolio focused on embedded firmware, modern C++, RTOS, device drivers, virtual hardware testing and engineering automation.
 
-My goal is to deliver clean, reproducible, and well-documented embedded solutions for professional freelance work, especially in remote and international environments.
+My goal is to deliver clean, reproducible and well-documented embedded solutions for remote and international engineering environments.
 
 ---
 
 ## Contact
 
-- GitHub: [Anderson-Shinobi](https://github.com/Anderson-Shinobi)
-- LinkedIn: [anderson-cpp](https://www.linkedin.com/in/anderson-cpp)
-- UpWork: in preparation
+- [GitHub](https://github.com/Anderson-Shinobi)
+- [LinkedIn](https://www.linkedin.com/in/anderson-cpp)
+- [Portfolio](https://anderson-shinobi.github.io/)
